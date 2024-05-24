@@ -11,6 +11,9 @@
     flex-direction: row;
     align-items: flex-start;
     gap: 0.313rem;
+
+
+    
 }
 
 .single-product .attribute .buttons {
